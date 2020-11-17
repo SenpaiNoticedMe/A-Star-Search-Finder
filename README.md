@@ -1,4 +1,4 @@
-# A-Star-Search-Finder
+# Shortest Path Finder - A-Star Search
 
 The A-Star Search Finder finds a path in a nxn grid environment.
 The start and end nodes are specified by the user and the program displays the shortest path.
